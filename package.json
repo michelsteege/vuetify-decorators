@@ -16,7 +16,8 @@
   "author": "michelsteege",
   "license": "MIT",
   "scripts": {
-    "build": "tsc -p ./src/tsconfig.json && rollup -c"
+    "build": "tsc -p ./src/tsconfig.json && rollup -c",
+    "test": "echo \"No test specified\""
   },
   "files": [
     "lib"
