@@ -1,6 +1,6 @@
 {
   "name": "vuetify-decorators",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Decorators for Vuetify",
   "main": "lib/vuetify-decorators.umd.js",
   "module": "lib/vuetify-decorators.js",
