@@ -1,6 +1,6 @@
-import VDConfirmComponent from '../src/VDConfirm.vue'
-import VDSnackbarComponent from '../src/VDSnackbar.vue'
-import VDLoaderComponent from '../src/VDLoader.vue'
+import VDConfirmComponent from './VDConfirm.vue'
+import VDSnackbarComponent from './VDSnackbar.vue'
+import VDLoaderComponent from './VDLoader.vue'
 import {VueConstructor} from 'vue'
 
 interface VDConfirmOptions {
